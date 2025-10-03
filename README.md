@@ -132,4 +132,7 @@ public class HelloController {
 
 Output:
 
+<img width="673" height="297" alt="image" src="https://github.com/user-attachments/assets/c31ee051-8ca4-4df0-a407-46c9cc27c177" />
+
+
 
